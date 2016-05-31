@@ -1,0 +1,276 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.360628128051758,
+          50.860279308831885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.366936683654785,
+          50.863150628060495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.398994445800781,
+          50.858328877947386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.402599334716797,
+          50.86696975036304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.411439895629883,
+          50.876286012643305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.431138038635254,
+          50.87833046636809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.451093673706055,
+          50.8863043325714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.461865425109863,
+          50.89236843084589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.483623504638671,
+          50.89659117580627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#9393ff",
+        "stroke-width": 8,
+        "stroke-opacity": 1,
+        "border": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.360638856887817,
+            50.86029285320557
+          ],
+          [
+            4.363117218017578,
+            50.86595405688488
+          ],
+          [
+            4.365123510360718,
+            50.86553423045021
+          ],
+          [
+            4.366679191589355,
+            50.86336732422254
+          ],
+          [
+            4.367419481277465,
+            50.86160663875368
+          ],
+          [
+            4.394187927246094,
+            50.85586363330871
+          ],
+          [
+            4.401226043701172,
+            50.85987297579188
+          ],
+          [
+            4.402427673339844,
+            50.86707808969461
+          ],
+          [
+            4.409894943237305,
+            50.875581941591506
+          ],
+          [
+            4.4116973876953125,
+            50.87661096492576
+          ],
+          [
+            4.430065155029297,
+            50.87823569235022
+          ],
+          [
+            4.433927536010741,
+            50.879156346079604
+          ],
+          [
+            4.448196887969971,
+            50.88459866268979
+          ],
+          [
+            4.44972038269043,
+            50.88543796837217
+          ],
+          [
+            4.451125860214233,
+            50.88642616374476
+          ],
+          [
+            4.451587200164795,
+            50.88701500992444
+          ],
+          [
+            4.452016353607178,
+            50.88764445795464
+          ],
+          [
+            4.457745552062988,
+            50.89063591189506
+          ],
+          [
+            4.461736679077148,
+            50.89255792119642
+          ],
+          [
+            4.464998245239258,
+            50.89437157554849
+          ],
+          [
+            4.472293853759766,
+            50.893884332063884
+          ],
+          [
+            4.478302001953125,
+            50.894642264170635
+          ],
+          [
+            4.483795166015625,
+            50.89680771650906
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.388265609741211,
+          50.85710981721644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.377107620239258,
+          50.8595479068105
+        ]
+      }
+    }
+  ]
+}
