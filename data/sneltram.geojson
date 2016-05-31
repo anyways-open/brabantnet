@@ -6,7 +6,12 @@
       "properties": {
         "stroke": "#00a800",
         "stroke-width": 8,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "route_id": 1,
+        "route_short_name": "Sneltram",
+        "route_long_name": "Sneltram",
+        "route_desc": "Sneltram naar Brussel",
+        "route_type": 3
       },
       "geometry": {
         "type": "LineString",
@@ -155,7 +160,9 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 0,
+        "stop_name": "Willbroek"
       },
       "geometry": {
         "type": "Point",
@@ -170,7 +177,9 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 1,
+        "stop_name": "Willebroek 2"
       },
       "geometry": {
         "type": "Point",
@@ -185,7 +194,9 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 2,
+        "stop_name": "Londerzeel Industrie"
       },
       "geometry": {
         "type": "Point",
@@ -200,7 +211,9 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 3,
+        "stop_name": "Londerzeel"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +228,9 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 4,
+        "stop_name": "Wolvertem"
       },
       "geometry": {
         "type": "Point",
@@ -230,7 +245,9 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 5,
+        "stop_name": "Meise"
       },
       "geometry": {
         "type": "Point",
@@ -245,7 +262,9 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 6,
+        "stop_name": "Strombeek-Bever Industrie"
       },
       "geometry": {
         "type": "Point",
@@ -260,7 +279,8 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "id": 7
       },
       "geometry": {
         "type": "Point",
@@ -275,7 +295,9 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 8,
+        "stop_name": "Heisel"
       },
       "geometry": {
         "type": "Point",
@@ -290,7 +312,9 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 9,
+        "stop_name": "Laken Park"
       },
       "geometry": {
         "type": "Point",
@@ -305,7 +329,9 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 10,
+        "stop_name": "Stuyvenbergh"
       },
       "geometry": {
         "type": "Point",
@@ -320,7 +346,9 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 11,
+        "stop_name": "Bockstael"
       },
       "geometry": {
         "type": "Point",
@@ -335,7 +363,9 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 12,
+        "stop_name": "Tour & Taxis"
       },
       "geometry": {
         "type": "Point",
@@ -350,7 +380,9 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 13,
+        "stop_name": "Stop 2"
       },
       "geometry": {
         "type": "Point",
@@ -365,7 +397,9 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 14,
+        "stop_name": "Stop 1"
       },
       "geometry": {
         "type": "Point",
@@ -380,7 +414,9 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 15,
+        "stop_name": "Noordstation"
       },
       "geometry": {
         "type": "Point",
