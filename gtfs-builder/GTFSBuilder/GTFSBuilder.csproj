@@ -37,16 +37,20 @@
       <HintPath>..\packages\GeoAPI.1.7.4\lib\net45\GeoAPI.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="GTFS, Version=1.6.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\GTFS.1.6.0-rc1\lib\net40\GTFS.dll</HintPath>
+    <Reference Include="GTFS, Version=1.6.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\GTFS.1.6.1\lib\net40\GTFS.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="GTFS.IO, Version=1.6.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\GTFS.1.6.0-rc1\lib\net40\GTFS.IO.dll</HintPath>
+    <Reference Include="GTFS.IO, Version=1.6.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\GTFS.1.6.1\lib\net40\GTFS.IO.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="GTFS.IO.Desktop, Version=1.6.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\GTFS.1.6.0-rc1\lib\net40\GTFS.IO.Desktop.dll</HintPath>
+    <Reference Include="GTFS.IO.Desktop, Version=1.6.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\GTFS.1.6.1\lib\net40\GTFS.IO.Desktop.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Itinero, Version=0.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Itinero.0.9.2-rc1\lib\net45\Itinero.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="NetTopologySuite, Version=1.14.0.0, Culture=neutral, PublicKeyToken=f580a05016ebada1, processorArchitecture=MSIL">
@@ -65,6 +69,10 @@
       <HintPath>..\packages\NetTopologySuite.1.14\lib\net45\PowerCollections.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="Reminiscence, Version=1.0.1.39, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Reminiscence.1.0.1\lib\portable-net403+sl50+win+wp80+Xamarin.iOS10+MonoAndroid10+MonoTouch10\Reminiscence.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -73,6 +81,10 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
+    <Reference Include="Zlib.Portable, Version=1.11.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Zlib.Portable.1.11.0\lib\portable-net4+sl5+wp8+win8+wpa81+MonoTouch+MonoAndroid\Zlib.Portable.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="NTSExtensions.cs" />
