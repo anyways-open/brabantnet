@@ -195,7 +195,7 @@ namespace GTFSBuilder
 
                     var stopTime = new StopTime();
                     stopTime.StopId = stop.Id;
-                    stopTime.StopSequence = (uint)s + 1;
+                    stopTime.StopSequence = (uint)(stops.Count - s - 1) + 1;
                     stopTime.PickupType = GTFS.Entities.Enumerations.PickupType.Regular;
                     stopTime.TripId = trip.Id;
                     stopTime.ArrivalTime = TimeOfDay.FromTotalSeconds(localTime * 60);
