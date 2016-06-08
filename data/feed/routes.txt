@@ -1,0 +1,4 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+3,DL,"Luchthaventram","Luchthaventram",Luchthaventram,900,,9393FF,
+2,DL,"Ringtram","Ringtram",Ringtram,900,,C40000,
+1,DL,"Sneltram","Sneltram",Sneltram naar Brussel,900,,00A800,

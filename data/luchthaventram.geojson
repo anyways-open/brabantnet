@@ -6,7 +6,8 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 11
       },
       "geometry": {
         "type": "Point",
@@ -21,7 +22,8 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 10
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +38,8 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 7
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +54,8 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 6
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +70,8 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 5
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +86,8 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 4
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +102,8 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 3
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +118,8 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 2
       },
       "geometry": {
         "type": "Point",
@@ -126,7 +134,8 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 1
       },
       "geometry": {
         "type": "Point",
@@ -142,7 +151,12 @@
         "stroke": "#9393ff",
         "stroke-width": 8,
         "stroke-opacity": 1,
-        "border": 1
+        "border": 1,
+        "route_id": 3,
+        "route_short_name": "Luchthaventram",
+        "route_long_name": "Luchthaventram",
+        "route_desc": "Luchthaventram",
+        "route_type": 3
       },
       "geometry": {
         "type": "LineString",
@@ -247,7 +261,8 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 8
       },
       "geometry": {
         "type": "Point",
@@ -262,7 +277,8 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked"
+        "marker-symbol": "circle-stroked",
+        "stop_id": 9
       },
       "geometry": {
         "type": "Point",

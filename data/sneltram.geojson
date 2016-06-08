@@ -280,7 +280,7 @@
         "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "id": 7
+        "stop_id": 7
       },
       "geometry": {
         "type": "Point",
